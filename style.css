@@ -1,0 +1,78 @@
+body{margin: 0;
+    font-family: 'Muli', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(61, 10, 3);
+    text-shadow: 4px 4px 7px dimgrey;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+
+.max-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+
+}
+.max-width img{
+   width: 100%; 
+}
+
+
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+a{
+    text-decoration: none;
+    background-color: rgba(126, 9, 9, 0.986);
+    padding: 12px 22px;
+    border-radius: 7px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg, rgb(121, 19, 19), rgb(43, 43, 80));
+}
+.ghost-area{
+    
+    background-image: url("images/dream-bg.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    
+    
+
+}
+.akib-man{
+    width: 100%;
+    float: left;
+}
+.akib-man img{
+    width: 25%;
+    margin: 2%;
+    padding: 2%;
+    
+}
+.throback{
+    text-align: center;
+}
+.conten-full{
+    
+    height: 100px;
+    width: 500px;
+    text-align: center;
+    color: honeydew;
+    padding: 15px 20px;
+    background-color: tomato;
+    border-radius: 10px;
+    margin: auto;
+    
+}
+footer{
+    text-align: center;
+}
